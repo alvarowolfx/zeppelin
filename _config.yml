@@ -55,13 +55,13 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2018"
+heroTitle: "Google I/O Extended <typeout> 2018"
 eventDate: "Maio, 2018"
 typeoutTextValues: '"", "Cuiabá", "USA"'
 typeoutFallback: "Cuiabá"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Torna-se um Palestrante"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Comprar Ingresso"}
 
 # About Block
 aboutTitle: "Sobre Google I/O Extended"
