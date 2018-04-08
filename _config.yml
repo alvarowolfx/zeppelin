@@ -194,7 +194,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: false
+blogCommentsEnabled: true
 discusShortName: "devfestua"
 
 # Speakers List Block
