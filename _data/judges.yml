@@ -11,10 +11,10 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 1
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  company: "Nravo, GDG Lviv"
-  title: "Team Lead, Unity 3D Developer"
+  name: "Victor Hugo"
+  surname: "Souza Nunes"
+  company: "Nuvem, GDG Cuiabá"
+  title: "Full-Stack Developer"
   thumbnailUrl: VitaliyZasadnyy.jpg
   social: 
     - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
@@ -23,10 +23,10 @@
     - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  company: "ELEKS, GDG Lviv"
-  title: "R&D Engineer"
+  name: "Alvaro"
+  surname: "Viebrantz"
+  company: "SEFAZ, GDG Cuiabá"
+  title: "Software Developer"
   thumbnailUrl: OstapAndrusiv.jpg
   social: 
     - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
@@ -34,10 +34,10 @@
     - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 3
-  name: "Oleh"
-  surname: "Zasadnyy"
-  company: "EPAM Systems, GDG Lviv"
-  title: "Junior Software Engineer"
+  name: "Thais"
+  surname: "Bueno"
+  company: "UFMT, GDG Cuiabá"
+  title: "Software Developer"
   thumbnailUrl: OlehZasadnyy.jpg
   social: 
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
