@@ -51,7 +51,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Torna-se um Palestrante"}
 rightNavigationButtons:
- - {link: "https://www.sympla.com.br/google-io-extended-cuiaba-2018__270588", text: "Comprar Ingresso"}
+ - {link: "http://bit.ly/io18-inscreva-se", text: "Comprar Ingresso"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ typeoutTextValues: '"", "Cuiabá", "USA"'
 typeoutFallback: "Cuiabá"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Torna-se um Palestrante"}
- - {link: "https://www.sympla.com.br/google-io-extended-cuiaba-2018__270588", text: "Comprar Ingresso"}
+ - {link: "http://bit.ly/io18-inscreva-se", text: "Comprar Ingresso"}
 
 # About Block
 aboutTitle: "Sobre Google I/O Extended"
