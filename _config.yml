@@ -56,8 +56,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Google I/O Extended <typeout> 2018"
-eventDate: "Maio, 2018"
-typeoutTextValues: '"", "Cuiabá", "USA"'
+eventDate: "26  de Maio, 2018"
+typeoutTextValues: '"", "Cuiabá", "Mato Grosso"'
 typeoutFallback: "Cuiabá"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Torna-se um Palestrante"}
@@ -73,9 +73,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "+", info: "Participantes", detail: "de todo o estado."}
+ - {count: "200", specialCharacter: "+", info: "Participantes", detail: "de todo o Mato Grosso."}
  - {count: "12", specialCharacter: "+", info: "Horas", detail: "de palestras sobre tecnologias"}
- - {count: "7", specialCharacter: "", info: "Palestrantes", detail: "do estado"}
+ - {count: "7", specialCharacter: "", info: "Palestrantes", detail: "do Mato Grosso"}
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
