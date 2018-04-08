@@ -1,60 +1,71 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Alvaro"
+  surname: "Viebrantz"
+  title: "Sofware Developer, Organizador e Palestrante"
+  thumbnailUrl: AlvaroViebrantz.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+#    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/alvaroviebrantz"}
+    - {name: "github", link: "https://github.com/alvarowolfx"}
+    - {name: "site", link: "https://aviebrantz.com.br/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Victor Hugo"
+  surname: "Souza Nunes"
+  title: "Full-Stack Developer, Organizador, Palestrante e Mentor"
+  thumbnailUrl: VictorHugo.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+#    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/victorhsnn"}
+    - {name: "github", link: "https://github.com/victorhsn"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Thais"
+  surname: "Bueno"
+  title: "Organizadora e Palestrante"
+  thumbnailUrl: ThaisBueno.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+  #  - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+  #  - {name: "twitter", link: "https://twitter.com/p1f"}
+  #  - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Gabriel"
+  surname: "Pedro"
+  title: "Software Developer, Organizador e Mentor"
+  thumbnailUrl: GabrielPedro.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/gpedro"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Aryadnne"
+  surname: "Zanatta"
+  title: "Scrum Master, Organizadora e Palestrante"
+  thumbnailUrl: AryadnneZanatta.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 8
+  name: "Nikollas"
+  surname: "Betiol"
+  title: "Software Developer, Organizador e Mentor"
+  thumbnailUrl: NikollasBetiol.jpg
+  subTeam: true
+  social: 
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}
