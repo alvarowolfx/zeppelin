@@ -54,7 +54,7 @@ rightNavigationButtons:
  - {link: "http://bit.ly/io18-inscreva-se", text: "Comprar Ingresso"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "io-2017.jpg"
 heroTitle: "Google I/O Extended <typeout> 2018"
 eventDate: "26  de Maio, 2018"
 typeoutTextValues: '"", "Cuiabá", "Mato Grosso"'
