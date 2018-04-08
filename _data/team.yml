@@ -44,7 +44,7 @@
   surname: "Pedro"
   title: "Software Developer, Organizador e Mentor"
   thumbnailUrl: GabrielPedro.jpg
-  subTeam: true
+  team: true
   social: 
 #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
 #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
@@ -55,7 +55,7 @@
   surname: "Zanatta"
   title: "Scrum Master, Organizadora e Palestrante"
   thumbnailUrl: AryadnneZanatta.jpg
-  subTeam: true
+  team: true
   social: 
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
@@ -65,7 +65,7 @@
   surname: "Betiol"
   title: "Software Developer, Organizador e Mentor"
   thumbnailUrl: NikollasBetiol.jpg
-  subTeam: true
+  team: true
   social: 
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
