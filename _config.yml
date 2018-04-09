@@ -75,7 +75,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "Participantes", detail: "de todo o Mato Grosso."}
  - {count: "12", specialCharacter: "+", info: "Horas", detail: "de palestras sobre tecnologias"}
- - {count: "7", specialCharacter: "", info: "Palestrantes", detail: "do Mato Grosso"}
+ - {count: "6", specialCharacter: "", info: "Palestrantes", detail: "do Mato Grosso"}
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
