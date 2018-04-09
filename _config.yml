@@ -66,9 +66,9 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre Google I/O Extended"
 aboutBlock:
- - {title: "Evento", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Atividades", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Objetivo", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Evento", image: "conference.jpg", text: "O maior evento relacionado ao Google criado para você pela a comuninidade GDG Cuiabá! Vários palestrantes e workshops" }
+ - {title: "Atividades", image: "workshop.jpg", text: "O dia todo de workshops, hands-on, hacking e debugging. Venha e escolha sua tecnologia favorita." }
+ - {title: "Objetivo", image: "hackathon.jpg", text: "Esse ano vamos ter um Hackathon, conhecimento e networking andando juntos. Não deixe de participar." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
