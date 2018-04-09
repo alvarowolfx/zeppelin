@@ -31,9 +31,9 @@ organizerLink: "http://gdgcuiaba.com/"
 # Head
 metaKeywords: "event, gdg, extended, google, programming, android, chrome, developers, cuiaba, mato grosso, golang"
 twitterAccount: "@GdgCuiaba"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/gdgcuiaba-io.png"
+socialImageSrcTwitter: "/img/seo/gdgcuiaba-io.png"
+#socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
