@@ -24,7 +24,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "GDG Cuiabá"
 organizerAlternateName: "Google Developer Group Cuiabá"
 organizerDescription: "O Google Developers Group de Cuiabá é um grupo aberto de entusiastas em tecnologias Google. Procuramos disseminar o conhecimento em tópicos como Mobile, Chrome, HTML5, Cloud, APIs, UI/UX e outros, além de apoiar iniciativas que visam o maior engajamento da comunidade."
-organizerEmail: "contato@gdgcuiaba.com"
+organizerEmail: "alvaroviebrantz@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdgcuiaba.com/"
 
@@ -36,20 +36,20 @@ socialImageSrcTwitter: "/img/seo/gdgcuiaba-io.png"
 #socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://bit.ly/io18-cuiaba-c4p"
+c4sponsorsUrl: "https://bit.ly/io18-cuiaba-midia"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Principal"}
-# - {permalink: "/schedule/", text: "Agenda"}
-# - {permalink: "/speakers/", text: "Palestrantes"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/team/", text: "Equipe"}
  #- {permalink: "/logistics/", text: "Logística"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Torna-se um Palestrante"}
+ - {link: "https://bit.ly/io18-cuiaba-c4p", text: "Torna-se um Palestrante"}
 rightNavigationButtons:
  - {link: "http://bit.ly/io18-inscreva-se", text: "Comprar Ingresso"}
 
@@ -60,7 +60,7 @@ eventDate: "26  de Maio, 2018"
 typeoutTextValues: '"", "Cuiabá", "Mato Grosso"'
 typeoutFallback: "Cuiabá"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Torna-se um Palestrante"}
+ - {link: "https://bit.ly/io18-cuiaba-c4p", text: "Torna-se um Palestrante"}
  - {link: "http://bit.ly/io18-inscreva-se", text: "Comprar Ingresso"}
 
 # About Block
@@ -84,7 +84,7 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Palestrnates Rockstar"
+rockstarSpeakersTitle: "Palestrantes Rockstar"
 rockstarSpeakersButtonText: "Veja todos palestrantes"
 
 # Location Block
@@ -130,51 +130,62 @@ subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b052
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Ingressos"
+ticketsInfo: "O ingresso garante acesso a todas as palestras e coffee brakes. Acomodação não está incluida no valor do ingresso."
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
+  price: "50"
+  priceCurrency: "reais"
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
+  buyButtonLink: "http://bit.ly/io18-inscreva-se"
+  buyButtonText: "Compre agora"
+  ticketContentList: ["Trilha de palestras Siriri", "Trilha de palestras Cururu", "Área de demonstrações"]
+  validFrom: "2018-04-09T00:00"
+  validThrough: "2018-04-31T00:00"
  -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  name: "Lazy Bird"
+  price: "60"
+  priceCurrency: "reais"
+  ticketsNumber: "150"
+  buyButtonLink: "http://bit.ly/io18-inscreva-se"
+  buyButtonText: "Compre agora"
+  ticketContentList: ["Trilha de palestras Siriri", "Trilha de palestras Cururu", "Área de demonstrações"]
+  validFrom: "2018-04-31T00:00"
+  validThrough: "2018-05-26T00:00"
+  disabled: false
+ -
+  name: "Workshops"
+  price: "100"
+  priceCurrency: "reais"
+  ticketsNumber: "30"
+  featured: true
+  buyButtonLink: "http://bit.ly/io18-inscreva-se"
+  buyButtonText: "Compre agora"
+  ticketContentList: ["Workshop Design Sprint","Workshop Django", "Mesmo acesso as palestras"]
+  validFrom: "2018-04-31T00:00"
+  validThrough: "2018-05-26T00:00"
+  disabled: false
+ -
+  name: "Grupo de Estudantes ou Caravanas"
+  price: "À"
+  priceCurrency: "combinar"
+  ticketsNumber: ""
+  buyButtonLink: "mailto:alvaroviebrantz@gmail.com"
+  buyButtonText: "Contato"
+  additionalInfo: "Precisa ser um grupo de pelo menos 15 pessoas"
+  ticketContentList: ["Trilha de palestras Siriri", "Trilha de palestras Cururu", "Área de demonstrações"]
+  validFrom: "2018-04-31T00:00"
+  validThrough: "2018-05-26T00:00"
+  soldOut: false
+  soldOutText: ""
 
 # Footer
 socialLinks:
  #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/devmatogrosso", icon: "twitter"}
+ - {link: "https://twitter.com/devmatogrosso", icon: "facebook"}
  - {link: "https://facebook.com/gdgcuiaba", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
@@ -184,9 +195,9 @@ footerBlocks:
    - {link: "http://gdgcuiaba.com", text: "GDGcuiaba.com"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Contatos"
   links:
-   - {link: "mailto:contato@gdgcuiaba.com", text: "contato@gdgcuiaba.com"}
+   - {link: "mailto:alvaroviebrantz@gmail.com", text: "alvaroviebrantz@gmail.com"}
  -
   title: "FAQ"
   links:
