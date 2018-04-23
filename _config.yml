@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -11,10 +11,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Google I/O Extended 2018"
-email: "xxxx@gdgcuiaba.com"
+#email: "alvaroviebrantz@gmail.com"
 description: "Google I/O Extended"
 baseurl: "/zeppelin"
 url: "http://gdg-cuiaba.github.io"
+directionsURL: "https://goo.gl/maps/yeU6aBeThyn"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdgcuiaba.com"
@@ -44,7 +45,7 @@ c4sponsorsUrl: "https://bit.ly/io18-cuiaba-midia"
 navigationLinks:
  - {permalink: "/", text: "Principal"}
  - {permalink: "/schedule/", text: "Agenda"}
- - {permalink: "/speakers/", text: "Palestrantes"}
+ #- {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/team/", text: "Equipe"}
  #- {permalink: "/logistics/", text: "Logística"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
@@ -56,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "io-2017.jpg"
 heroTitle: "Google I/O Extended <typeout> 2018"
-eventDate: "26  de Maio, 2018"
+eventDate: "26 e 27 de Maio, 2018"
 typeoutTextValues: '"", "Cuiabá", "Mato Grosso"'
 typeoutFallback: "Cuiabá"
 heroButtons:
@@ -89,19 +90,19 @@ rockstarSpeakersButtonText: "Veja todos palestrantes"
 
 # Location Block
 locationBlockTitle: "Localização"
-eventLocationName: "UNIC Beira Rio"
+eventLocationName: "IC UFMT"
 eventLocationLink: "http://www.gdgcuiaba.com"
-eventStreetAddress: "Av. Beira Rio, Jardim Europa"
+eventStreetAddress: " Avenida Fernando Correa da Costa, 2367 Boa Esperança"
 eventAddressLocality: "Cuiabá"
 eventAddressLocalityRegion: "Mato Grosso"
 eventPostalCode: ""
 eventAddressCountry: "Brasil"
-eventStartTime: "2018-05-26T07:00"
+eventStartTime: "2018-05-26T08:00"
 eventDoorTime: "09:00"
 eventEndTime: "2018-05-26T20:00"
-eventPlaceCoordinates: "-15.6247852, -56.0867314"
-mapCenterCoordinates: "-15.6247852, -56.0867314"
-mapMobileCenterCoordinates: "-15.6247852, -56.0867314"
+eventPlaceCoordinates: "-15.6083487, -56.0651395"
+mapCenterCoordinates: "-15.6083487, -56.0651395"
+mapMobileCenterCoordinates: "-15.6083487, -56.0651395"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -135,36 +136,36 @@ ticketsInfo: "O ingresso garante acesso a todas as palestras e coffee brakes. Ac
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "50"
+  price: "40"
   priceCurrency: "reais"
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
   buyButtonLink: "http://bit.ly/io18-inscreva-se"
   buyButtonText: "Compre agora"
-  ticketContentList: ["Trilha de palestras Siriri", "Trilha de palestras Cururu", "Área de demonstrações"]
+  ticketContentList: ["Palestras", "Área de demonstrações"]
   validFrom: "2018-04-09T00:00"
   validThrough: "2018-04-31T00:00"
  -
-  name: "Lazy Bird"
+  name: "Google Lover"
   price: "60"
   priceCurrency: "reais"
-  ticketsNumber: "150"
+  ticketsNumber: "50"
   buyButtonLink: "http://bit.ly/io18-inscreva-se"
   buyButtonText: "Compre agora"
-  ticketContentList: ["Trilha de palestras Siriri", "Trilha de palestras Cururu", "Área de demonstrações"]
+  ticketContentList: ["Palestras", "Área de demonstrações"]
   validFrom: "2018-04-31T00:00"
   validThrough: "2018-05-26T00:00"
   disabled: false
  -
   name: "Workshops"
-  price: "100"
-  priceCurrency: "reais"
+  price: "20"
+  priceCurrency: "reais cada"
   ticketsNumber: "30"
   featured: true
   buyButtonLink: "http://bit.ly/io18-inscreva-se"
   buyButtonText: "Compre agora"
-  ticketContentList: ["Workshop Design Sprint","Workshop Django", "Mesmo acesso as palestras"]
+  ticketContentList: ["Workshop Design Sprint","Workshop Django", "Workshop IoT"]
   validFrom: "2018-04-31T00:00"
   validThrough: "2018-05-26T00:00"
   disabled: false
@@ -176,7 +177,7 @@ ticketsOffers:
   buyButtonLink: "mailto:alvaroviebrantz@gmail.com"
   buyButtonText: "Contato"
   additionalInfo: "Precisa ser um grupo de pelo menos 15 pessoas"
-  ticketContentList: ["Trilha de palestras Siriri", "Trilha de palestras Cururu", "Área de demonstrações"]
+  ticketContentList: ["Palestras", "Área de demonstrações"]
   validFrom: "2018-04-31T00:00"
   validThrough: "2018-05-26T00:00"
   soldOut: false
@@ -187,7 +188,7 @@ socialLinks:
  #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/devmatogrosso", icon: "facebook"}
  - {link: "https://facebook.com/gdgcuiaba", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"

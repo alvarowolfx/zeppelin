@@ -1,20 +1,24 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Código de conduta
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+**Código de conduta**
 
+Este documento é direcionado à toda comunidade de Desenvolvedores do Estado do Mato Grosso. Por meio deste, o DEVMT, apresentará expectativas e diretrizes a serem seguidas pela a comunidade em todos os meios de comunicação, divulgação, seja estes online ou offline.
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+O objetivo deste documento é assegurar a todos envolvidos na comunidade de dados e perigos morais, também dedica-se a promover uma comunidade respeitosa e livre de assédio para todos.
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+Em todos os meios citados não deve ser tolerado qualquer forma de assédio ou intimidação, estes incluindo comentários ofensivos, verbais ou eletrônicos, relacionados a características ou escolhas pessoas, bem também como imagens sexuais em espaços públicos ou digitais, intimidação deliberada, bullying, perseguição, fotografias ou gravações que gerem embaraço, contato físico inadequado ou atenção sexual indesejada. Também não extremamente conedanadas piadas e brincadeiras de assédio, de cunho sexista, racista, ou que ofendam ou excluam qualquer indivíduo ou grupo de indivíduos.
 
+Espera-se que todos os membros da comunidade sejam tratados com gentiliza.
 
-######Contacts:
+Aos que forem assediados de qualquer forma, e aos que presenciem o assédio a qualquer membro da comunidade, espera-se que tentem interromper a agressão e que se reportem aos responsáveis pelo o meio no qual a agressão ocorreu.
 
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+**Contatos:**
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+* [Slack](https://slack.devmt.com.br)
+* [Meetup](https://meetup.com/gdgcuiaba)
+* [Facebook](https://facebook.com/gdgcuiaba)

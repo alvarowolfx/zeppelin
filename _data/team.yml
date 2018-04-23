@@ -6,6 +6,7 @@
   thumbnailUrl: AlvaroViebrantz.jpg
   team: true
   ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert"}
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
 #    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
@@ -14,8 +15,8 @@
     - {name: "site", link: "https://aviebrantz.com.br/"}
 - 
   id: 1
-  name: "Victor Hugo"
-  surname: "Souza Nunes"
+  name: "Victor"
+  surname: "Hugo"
   title: "Full-Stack Developer, Organizador, Palestrante e Mentor"
   thumbnailUrl: VictorHugo.jpg
   team: true
