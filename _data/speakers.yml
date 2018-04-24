@@ -2,7 +2,7 @@
   id: 1
   name: "Wagner"
   surname: "Rodrigo"
-  company: "Nuvem"
+  company: "Nuvem Tecnologia"
   title: "Mobile Developer"
   bio: ""
   thumbnailUrl: WagnerRodrigo.jpg
@@ -29,6 +29,7 @@
   id: 3
   name: "Thais"
   surname: "Bueno"
+  company: "UFMT | GDG Cuiabá"
   title: "Organizadora e Palestrante"
   thumbnailUrl: ThaisBueno.jpg
   team: true
@@ -42,6 +43,7 @@
   id: 4
   name: "Aryadnne"
   surname: "Zanatta"
+  company: "AMAGGI | GDG Cuiabá"
   title: "Scrum Master, Organizadora e Palestrante"
   thumbnailUrl: AryadnneZanatta.jpg
   team: true
@@ -51,6 +53,7 @@
   id: 5
   name: "Victor Hugo"
   surname: "Nunes"
+  company: "Nuvem Tecnologia | DevMT | GDG Cuiabá"
   title: "Full Stack Developer, Organizador e Palestrante"
   thumbnailUrl: VictorHugo.jpg
   team: true
