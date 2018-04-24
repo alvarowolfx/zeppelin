@@ -48,3 +48,12 @@
   social: 
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
+  id: 5
+  name: "Victor Hugo"
+  surname: "Nunes"
+  title: "Full Stack Developer, Organizador e Palestrante"
+  thumbnailUrl: VictorHugo.jpg
+  team: true
+  social: 
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}

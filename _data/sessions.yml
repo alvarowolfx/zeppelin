@@ -41,10 +41,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 103
-  title: "Palestra 3"
-  description: "Informações em breve"
+  title: ".NET Core + Google Cloud Platform"
+  description: "Aprenda como publicar sua aplicação .NET Core na Google Cloud Platform de forma fácil."
   subtype: presentation
-  speakers: [0]
+  speakers: [1]
   language: pt-br
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
