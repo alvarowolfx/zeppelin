@@ -70,3 +70,13 @@
   social: 
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 9
+  name: "Paola"
+  surname: "Rocha"
+  title: "Publicitária e Organizadora"
+  thumbnailUrl: PaolaRocha.jpg
+  team: true
+  social: 
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}
