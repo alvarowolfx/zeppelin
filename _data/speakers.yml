@@ -61,3 +61,37 @@
   social: 
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
+
+-
+  id: 6
+  name: "Gabriel"
+  surname: "Simplicio"
+  company: "Tribunal de Justiça de MT"
+  title: "Full Stack Developer"
+  thumbnailUrl: GabrielSimplicio.jpeg
+  team: true
+  social: 
+    - {name: "github", link: "https://github.com/gabrielsimplicio"}
+#    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 7
+  name: "Guilherme"
+  surname: "Falcão"
+  company: "SEFAZ-MT"
+  title: "Data Scientist"
+  thumbnailUrl: GuilhermeFalcao.jpeg
+  team: true
+  social: 
+    - {name: "github", link: "https://github.com/guilhermefscampos"}
+#    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 8
+  name: "Gabriel"
+  surname: "Pedro"
+  company: "RCF Inovações"
+  title: "Fullstack developer"
+  thumbnailUrl: GabrielPedro.jpg
+  team: true
+  social: 
+    - {name: "github", link: "https://github.com/gpedro"}
+#    - {name: "site", link: "http://olostan.name/"}

@@ -2,7 +2,8 @@
   date: "2018-05-26"
   dateReadable: "26 de Maio - Palestras"
   tracks: 
-    - {title: "Principal", color: "#90be4e"}    
+    - {title: "Trilha 1", color: "#90be4e"}    
+    - {title: "Trilha 2", color: "#03a9f4"}    
   timeslots:
     - {
     	startTime: "08:00",
@@ -22,12 +23,12 @@
     - {
     	startTime: "10:00",
     	endTime: "11:00",
-    	sessionIds: [102]
+    	sessionIds: [104,103]
     }
     - {
     	startTime: "11:00",
     	endTime: "12:00",
-    	sessionIds: [103]
+    	sessionIds: [102,105]
     }
     - {
     	startTime: "12:00",
@@ -37,27 +38,32 @@
     - {
     	startTime: "14:00",
     	endTime: "15:00",
-    	sessionIds: [104]
+    	sessionIds: [106]
     }
     - {
     	startTime: "15:00",
     	endTime: "16:00",
-    	sessionIds: [105]
+    	sessionIds: [107]
     }
     - {
     	startTime: "16:00",
-    	endTime: "16:30",
-    	sessionIds: [004]
+    	endTime: "17:00",
+    	sessionIds: [108,109]
     }
     - {
-    	startTime: "16:30",
+    	startTime: "17:00",
     	endTime: "17:30",
-    	sessionIds: [106]
+    	sessionIds: [004]
     }
     - {
     	startTime: "17:30",
     	endTime: "18:30",
-    	sessionIds: [107]
+    	sessionIds: [110,111]
+    }
+    - {
+    	startTime: "18:30",
+    	endTime: "19:30",
+    	sessionIds: [112]
     }
 - 
   date: "2018-05-27"
@@ -69,7 +75,7 @@
     - {
     	startTime: "08:00",
     	endTime: "12:00",
-    	sessionIds: [201, 202]
+    	sessionIds: [203, 202]
     }
     - {
     	startTime: "10:00",
@@ -79,7 +85,7 @@
     - {
     	startTime: "10:30",
     	endTime: "12:30",
-    	sessionIds: [201, 202]
+    	sessionIds: [203, 202]
     }
     - {
     	startTime: "12:30",
@@ -89,7 +95,7 @@
     - {
         startTime: "14:00",
         endTime: "16:00",
-        sessionIds: [203,204]
+        sessionIds: [201,204]
     }
     - {
     	startTime: "16:00",
@@ -99,5 +105,5 @@
     - {
         startTime: "16:30",
         endTime: "18:30",
-        sessionIds: [203,204]
+        sessionIds: [201,204]
     }

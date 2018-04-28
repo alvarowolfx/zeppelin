@@ -22,7 +22,7 @@
 -
   id: 101
   title: "Palestra 1"
-  description: "Informações em breve"
+  description: ""
   subtype: presentation
   speakers: [0]
   language: pt-br
@@ -41,6 +41,16 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 103
+  title: "Palestra 3"
+  description: "Informações em breve"
+  subtype: presentation
+  speakers: [0]
+  language: pt-br
+  complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 104
   title: ".NET Core + Google Cloud Platform"
   description: "Aprenda como publicar sua aplicação .NET Core na Google Cloud Platform de forma fácil."
   subtype: presentation
@@ -50,7 +60,17 @@
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 104
+  id: 105
+  title: "Transfer Learning com Tensorflow"
+  description: "Como treinar modelos já prontos, mas com seus próprio conjunto de dados."
+  subtype: presentation
+  speakers: [7]
+  language: pt-br
+  complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 106
   title: "Google I/O Keynote"
   description: "Assistiremos juntos a Keynote do evento na California"
   subtype: video
@@ -60,31 +80,61 @@
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 105
-  title: "Palestra 5"
-  description: "Informações em breve"
-  subtype: presentation
-  speakers: [0]
-  language: pt-br
-  complexity: "Intermediate" 
-  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 106
-  title: "Palestra 6"
-  description: "Informações em breve"
-  subtype: presentation
-  speakers: [0]
-  language: pt-br
-  complexity: "Intermediate" 
-  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
   id: 107
-  title: "Contruindo dispositivos inteligentes com Android Things"
-  description: "Como iniciar o desenvolvimento de soluções de hardware poderosas unindo o poder do Android com várias APIs de processamento de imagens e voz do Google."
+  title: "Palestra 7"
+  description: "Informações em breve"
   subtype: presentation
-  speakers: [2]
+  speakers: [0]
+  language: pt-br
+  complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 108
+  title: "Firebase FTW!"
+  description: ""
+  subtype: presentation
+  speakers: [6]
+  language: pt-br
+  complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 109
+  title: "Vida de um dev Golang"
+  description: ""
+  subtype: presentation
+  speakers: [8]
+  language: pt-br
+  complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 110
+  title: "Palestra 10"
+  description: "Informações em breve"
+  subtype: presentation
+  speakers: [0]
+  language: pt-br
+  complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 111
+  title: "Palestra 11"
+  description: "Informações em breve"
+  subtype: presentation
+  speakers: [0]
+  language: pt-br
+  complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 112
+  title: "Palestra 12"
+  description: "Informações em breve"
+  subtype: presentation
+  speakers: [0]
   language: pt-br
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -121,7 +171,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 201
-  title: "Workshop Git e Github"
+  title: "À Definir"
   description: ""
   subtype: workshop
   speakers: [0]
