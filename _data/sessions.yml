@@ -44,17 +44,17 @@
   title: "Arquitetura Enxuta na Cloud"
   description: "Como desenvolver um Mínimo Produto Viável (MVP) que seja flexível, utilizando o mínimo de código possível em sua construção. Tecnologias como Ionic, PWA, Cloud Endpoints, ZeroOps e BigData estão aí para facilitar em muito essa tarefa de simplificação com eficiência."
   subtype: presentation
-  speakers: [5]
+  speakers: [9]
   language: pt-br
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
+ -
   id: 104
   title: ".NET Core + Google Cloud Platform"
   description: "Aprenda como publicar sua aplicação .NET Core na Google Cloud Platform de forma fácil."
   subtype: presentation
-  speakers: [9]
+  speakers: [5]
   language: pt-br
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
