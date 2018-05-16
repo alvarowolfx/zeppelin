@@ -111,10 +111,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 110
-  title: "Palestra 10"
-  description: "Informações em breve"
+  title: "Google Analytics"
+  description: "Performance e tomada de decisão com o Google Analytics"
   subtype: presentation
-  speakers: [0]
+  speakers: [10]
   language: pt-br
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"

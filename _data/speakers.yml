@@ -103,6 +103,15 @@
   title: "Google Developer Expert, devido a seu trabalho em Cloud Computing. Já desenvolveu para Nike, Citibank, Qualcomm, Universidade da California, TAM, Anatel, Serpro, dentre outras"
   thumbnailUrl: AllineOliveira.jpg
   team: false
+  
+-
+  id: 10
+  name: "Mauricio"
+  surname: "Lima"
+  company: "CEO Fundador da Quantum Agência de Publicidade"
+  title: "CEO Fundador da Quantum Agência de Publicidade, é Bacharel em Administração de Empresas, aos 16 anos começou a dar aula na Microlins onde fez seu primeiro curso de html e a partir de então nunca mais se afastou por várias horas de um notebook. É consultor especialista em Marketing Digital, com mais de 30 cursos na área. Administrador de empresas moderno, amante de teorias da conspiração, apaixonado por tecnologia e cervejas"
+  thumbnailUrl: Mauricio.png
+  team: false
   #social: 
   #  - {name: "github", link: "https://github.com/gpedro"}
   #    - {name: "site", link: "http://olostan.name/"}
