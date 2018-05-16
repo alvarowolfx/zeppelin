@@ -95,3 +95,14 @@
   social: 
     - {name: "github", link: "https://github.com/gpedro"}
 #    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 9
+  name: "Alline"
+  surname: "Oliveira"
+  company: "CEO/CTO Crebit"
+  title: "Google Developer Expert, devido a seu trabalho em Cloud Computing. Já desenvolveu para Nike, Citibank, Qualcomm, Universidade da California, TAM, Anatel, Serpro, dentre outras"
+  thumbnailUrl: AllineOliveira.jpg
+  team: true
+  social: 
+    - {name: "github", link: "https://github.com/gpedro"}
+#    - {name: "site", link: "http://olostan.name/"}
