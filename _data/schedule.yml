@@ -63,7 +63,7 @@
     - {
     	startTime: "18:30",
     	endTime: "19:30",
-    	sessionIds: [112]
+    	sessionIds: [0]
     }
 - 
   date: "2018-05-27"
