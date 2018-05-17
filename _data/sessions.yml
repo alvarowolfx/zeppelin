@@ -111,8 +111,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 110
-  title: "Google Analytics"
-  description: "Performance e tomada de decisão com o Google Analytics"
+  title: "Performance e tomada de decisão com o Google Analytics"
+  description: ""
   subtype: presentation
   speakers: [10]
   language: pt-br
