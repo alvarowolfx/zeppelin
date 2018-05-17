@@ -2,8 +2,8 @@
   date: "2018-05-26"
   dateReadable: "26 de Maio - Palestras"
   tracks: 
-    - {title: "Trilha 1", color: "#90be4e"}    
-    - {title: "Trilha 2", color: "#03a9f4"}    
+    - {title: "Trilha Maria Isabel", color: "#90be4e"}    
+    - {title: "Trilha Arroz com Pequi", color: "#03a9f4"}    
   timeslots:
     - {
     	startTime: "08:00",
@@ -18,12 +18,12 @@
     - {
         startTime: "09:00",
         endTime: "10:00",
-        sessionIds: [101]
+        sessionIds: [107]
     }
     - {
     	startTime: "10:00",
     	endTime: "11:00",
-    	sessionIds: [104,107]
+    	sessionIds: [104,101]
     }
     - {
     	startTime: "11:00",
@@ -43,7 +43,7 @@
     - {
     	startTime: "15:00",
     	endTime: "16:00",
-    	sessionIds: [103,112]
+    	sessionIds: [103]
     }
     - {
     	startTime: "16:00",
@@ -58,7 +58,12 @@
     - {
     	startTime: "17:30",
     	endTime: "18:30",
-    	sessionIds: [110,111]
+    	sessionIds: [110,112]
+    }
+    - {
+      startTime: "18:30",
+      endTime: "19:30",
+      sessionIds: [111]
     }
 - 
   date: "2018-05-27"
