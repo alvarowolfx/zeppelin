@@ -69,7 +69,7 @@ aboutTitle: "Sobre Google I/O Extended"
 aboutBlock:
  - {title: "Evento", image: "conference.jpg", text: "O maior evento relacionado ao Google criado para você pela a comuninidade GDG Cuiabá! Vários palestrantes e workshops" }
  - {title: "Atividades", image: "workshop.jpg", text: "O dia todo de workshops, hands-on, hacking e debugging. Venha e escolha sua tecnologia favorita." }
- - {title: "Objetivo", image: "hackathon.jpg", text: "Esse ano vamos ter um Hackathon, conhecimento e networking andando juntos. Não deixe de participar." }
+ - {title: "Objetivo", image: "hackathon.jpg", text: "Esse ano vamos ter 3 workshops, conhecimento e networking andando juntos. Não deixe de participar." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
