@@ -74,12 +74,12 @@
   timeslots: 
     - {
     	startTime: "08:00",
-    	endTime: "12:00",
+    	endTime: "10:00",
     	sessionIds: [203, 202]
     }
     - {
     	startTime: "10:00",
-    	endTime: "10:20",
+    	endTime: "10:30",
     	sessionIds: [004]
     }
     - {
