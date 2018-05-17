@@ -21,10 +21,10 @@
   description: "O melhor momento para conversar com os palestrantes e participantes."
 -
   id: 101
-  title: "Palestra 1"
-  description: ""
+  title: "Fundamento de Realidade Virtual e Realidade Aumentada com A-Frame e AR.js"
+  description: "Apresentar e demonstrar como desenvolver experiências em realidade aumentada e virtual com a-frame e ar.js"
   subtype: presentation
-  speakers: [0]
+  speakers: [14]
   language: pt-br
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -81,10 +81,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 107
-  title: "Palestra 7"
-  description: "Informações em breve"
+  title: "Pra quê você quer meus dados?"
+  description: " O I/O 2018 deixou claro que a Google está apostando alto em Machine Learning e IA. Aqui, vamos contar algumas das principais novidades geradas por esses métodos, como eles foram aplicados nos serviços do Assistant e Maps, além de como a Google tornou possível trabalhar com quantidades enormes de dados a partir do seu próprio celular. A partir daí, fica a pergunta: o que há de bom e ruim quando todo mundo puder treinar e propor modelos pra tudo? Vamos tentar responder com exemplos quentinhos e práticos de repercussões desses modelos no mundo real, e definir o papel do desenvolvedor em tudo isso."
   subtype: presentation
-  speakers: [0]
+  speakers: [11]
   language: pt-br
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -101,7 +101,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 109
-  title: "Vida de um dev Golang"
+  title: "gRPC: Sweet Dreams area made of this"
   description: ""
   subtype: presentation
   speakers: [8]
@@ -121,20 +121,20 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 111
-  title: "Palestra 11"
-  description: "Informações em breve"
+  title: "UX4Devs"
+  description: "O que é UX e o que devs tem a ver com isso?"
   subtype: presentation
-  speakers: [0]
+  speakers: [12]
   language: pt-br
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 112
-  title: "Palestra 12"
-  description: "Informações em breve"
+  title: "O que há de incrível sobre o Flutter"
+  description: " Flutter é o SDK de aplicativos para dispositivos móveis do Google para criar interfaces nativas de alta qualidade em iOS e Android em tempo recorde. O Flutter funciona com código existente, é usado por desenvolvedores e organizações em todo o mundo e é gratuito e de código aberto."
   subtype: presentation
-  speakers: [0]
+  speakers: [13]
   language: pt-br
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
