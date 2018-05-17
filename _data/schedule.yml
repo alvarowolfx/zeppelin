@@ -60,11 +60,6 @@
     	endTime: "18:30",
     	sessionIds: [110,111]
     }
-    - {
-    	startTime: "18:30",
-    	endTime: "19:30",
-    	sessionIds: [0]
-    }
 - 
   date: "2018-05-27"
   dateReadable: "27 de Maio - Workshops"
