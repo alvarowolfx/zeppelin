@@ -91,7 +91,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 108
-  title: "Firebase FTW!"
+  title: "Server Side Rendering + Firebase Cloud Functions"
   description: ""
   subtype: presentation
   speakers: [6]
