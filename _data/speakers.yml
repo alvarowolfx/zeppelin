@@ -115,3 +115,47 @@
   #social: 
   #  - {name: "github", link: "https://github.com/gpedro"}
   #    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 11
+  name: "Bianca"
+  surname: "Ximenes"
+  company: ""
+  title: "Bianca é Google Developer Expert em Estratégia de Produto, formada em Economia e doutoranda em Ciência da Computação, CSM e consultora. Ela adora debater estratégia, microeconomia, análise de dados, linguagens humanas, e coexistência humano-robô."
+  thumbnailUrl: BiancaXimenes.png
+  team: false
+  #social: 
+  #  - {name: "github", link: "https://github.com/gpedro"}
+  #    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 12
+  name: "Bianca"
+  surname: "Brancaleone"
+  company: "Eu Compraria"
+  title: "Bianca trabalha como Especialista em UX - começou sua jornada em TI criando sites como dever de casa no ensino médio. Estudou design de multimídia e se especializou em arquitetura de informação, atuando há 13 anos na área. Ela é Google Developer Expert em Design de Produto, Sprint Master certificada pelo Google, uma das líderes do GDG e WTM de Sorocaba e sócia de um e-commerce focado no público desenvolvedor e geek, o Eu Compraria."
+  thumbnailUrl: BiancaBrancaleone.png
+  team: false
+  #social: 
+  #  - {name: "github", link: "https://github.com/gpedro"}
+  #    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 13
+  name: "Wiliam Luiz"
+  surname: "Buzatto"
+  company: "Unimed"
+  title: "Entusiasta do mundo web, mobile e Arquitetura de Software. Desenvolvedor na Unimed atuando em diversos cenários. Instrutor na TDS Tecnologia, gostando de compartilhar idéias e conhecimentos."
+  thumbnailUrl: WiliamBuzatto.png
+  team: false
+  #social: 
+  #  - {name: "github", link: "https://github.com/gpedro"}
+  #    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 13
+  name: "Matheus"
+  surname: "Spartalis"
+  company: "Unimed"
+  title: ""
+  thumbnailUrl: MatheusSpartalis.png
+  team: false
+  #social: 
+  #  - {name: "github", link: "https://github.com/gpedro"}
+  #    - {name: "site", link: "http://olostan.name/"}
